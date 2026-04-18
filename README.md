@@ -65,8 +65,7 @@ Raw PPG Signal (150 Hz)
       RMSSD    →  Parasympathetic activity   
     
         
-        
   5. Multi-Condition Comparison 
     Baseline vs. Reading vs. Studying vs. Social Media vs. Gaming
 
- ![Alt Text](path/to/your/image.png)
+![Alt Text](Screenshot 2026-04-18 171301.png)
