@@ -67,5 +67,20 @@ Raw PPG Signal (150 Hz)
         
   5. Multi-Condition Comparison 
     Baseline vs. Reading vs. Studying vs. Social Media vs. Gaming
+<img width="881" height="147" alt="Image" src="https://github.com/user-attachments/assets/d6bf0232-dac3-449c-87ed-a19df0ad8d17" />
 
+## Dashboard
+(in progress)
 
+## Future Work
+-  Test additional content types (video calls, YouTube, news)
+-  Real-time stress alert — notify user to take a break when HRV drops below personal threshold
+-  Mobile app version with Bluetooth PPG sensor integration
+
+##  Referances
+1. IEEE Xplore [6908199] — PPG-based heart rate monitoring
+2. IEEE Xplore [10605974] — HRV analysis in stress detection
+3. IEEE Xplore [4353036] — Digital filtering of biomedical signals
+4. IEEE Xplore [7032208] — Wearable sensors for physiological monitoring
+5. IEEE Xplore [9844174] — Screen exposure and autonomic response
+6. IEEE Xplore [4671121] — Photoplethysmography signal processing
