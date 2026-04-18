@@ -68,4 +68,4 @@ Raw PPG Signal (150 Hz)
   5. Multi-Condition Comparison 
     Baseline vs. Reading vs. Studying vs. Social Media vs. Gaming
 
-![Alt Text](Screenshot 2026-04-18 171301.png)
+
