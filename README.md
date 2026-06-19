@@ -331,9 +331,3 @@ Results indicate that social media and gaming induce higher stress responses tha
 5. IEEE Xplore Document 9844174 — Effects of Screen Exposure on Autonomic Nervous System Activity.
 
 6. IEEE Xplore Document 4671121 — Photoplethysmography Signal Acquisition and Processing Methods.
-
-7. MathWorks Documentation. *findpeaks Function for Peak Detection in Biomedical Signals*.
-
-8. MathWorks Documentation. *Butterworth Filter Design and Zero-Phase Filtering using filtfilt()*.
-
-9. ThingSpeak Documentation. *IoT Analytics and Real-Time Data Visualization Platform*.
