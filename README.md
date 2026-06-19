@@ -320,20 +320,20 @@ Results indicate that social media and gaming induce higher stress responses tha
 
 ## References
 
-4. IEEE Xplore Document 6908199 — PPG-Based Heart Rate Monitoring Using Wearable Sensors.
+1. IEEE Xplore Document 6908199 — PPG-Based Heart Rate Monitoring Using Wearable Sensors.
 
-5. IEEE Xplore Document 10605974 — Heart Rate Variability Analysis for Stress Detection and Assessment.
+2. IEEE Xplore Document 10605974 — Heart Rate Variability Analysis for Stress Detection and Assessment.
 
-6. IEEE Xplore Document 4353036 — Digital Filtering Techniques for Biomedical Signal Processing.
+3. IEEE Xplore Document 4353036 — Digital Filtering Techniques for Biomedical Signal Processing.
 
-7. IEEE Xplore Document 7032208 — Wearable Physiological Sensors for Continuous Health Monitoring.
+4. IEEE Xplore Document 7032208 — Wearable Physiological Sensors for Continuous Health Monitoring.
 
-8. IEEE Xplore Document 9844174 — Effects of Screen Exposure on Autonomic Nervous System Activity.
+5. IEEE Xplore Document 9844174 — Effects of Screen Exposure on Autonomic Nervous System Activity.
 
-9. IEEE Xplore Document 4671121 — Photoplethysmography Signal Acquisition and Processing Methods.
+6. IEEE Xplore Document 4671121 — Photoplethysmography Signal Acquisition and Processing Methods.
 
-10. MathWorks Documentation. *findpeaks Function for Peak Detection in Biomedical Signals*.
+7. MathWorks Documentation. *findpeaks Function for Peak Detection in Biomedical Signals*.
 
-11. MathWorks Documentation. *Butterworth Filter Design and Zero-Phase Filtering using filtfilt()*.
+8. MathWorks Documentation. *Butterworth Filter Design and Zero-Phase Filtering using filtfilt()*.
 
-12. ThingSpeak Documentation. *IoT Analytics and Real-Time Data Visualization Platform*.
+9. ThingSpeak Documentation. *IoT Analytics and Real-Time Data Visualization Platform*.
